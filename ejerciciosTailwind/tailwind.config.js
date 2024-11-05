@@ -9,7 +9,7 @@ module.exports = {
         secondary: '#c8cf02',
         accent: '#F59E0B',
         background: '#40585e',
-        textPrimary: '#111827',
+        textPrimary: '#fafafa',
         textSecondary: '#6B7280',
         // Agregar colores para el modo oscuro
         darkBackground: '#1F2937', // Fondo oscuro
